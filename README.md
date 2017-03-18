@@ -1,2 +1,2 @@
 # git_lecture
-git and github lecture in CNU
+This is sample repository for CNU students.
