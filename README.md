@@ -10,4 +10,8 @@ This is a code block
 
 2017 9월 19일
 
+<<<<<<< HEAD
 KNU
+=======
+Hello KNU
+>>>>>>> 1229ae31d866906d7d7dde2f088cdf4108ffbd13
