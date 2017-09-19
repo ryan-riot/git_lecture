@@ -14,4 +14,4 @@ test
 
 Hello KNU
 
-git & github
+git & github lecture
