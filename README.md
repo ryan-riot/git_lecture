@@ -15,3 +15,5 @@ test
 Hello KNU
 
 git & github lecture!!!
+
+nice meet you
