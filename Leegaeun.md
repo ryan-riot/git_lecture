@@ -10,7 +10,7 @@ INTRODUCE
 
 3. 취미
  * 야구장직관
- ![두산베어스](http://www.doosanbears.com/commons/images/common/logo.png;jsessionid=FA6CA5ECDF9E72CACB5A9E5B8F954CA6)
+ ![두산베어스](http://terms.naver.com/entry.nhn?docId=1184503&cid=40942&categoryId=32009)
  * 음악듣기
  * 네일아트
 
