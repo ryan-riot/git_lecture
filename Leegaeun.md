@@ -1,4 +1,4 @@
-![자기소개](https://cdn3.iconfinder.com/data/icons/rcons-user-profession/32/lawyer-woman-16.png)
+![자기소개](https://cdn3.iconfinder.com/data/icons/rcons-user-profession/32/lawyer-woman-48.png)
 
 
 ##이름
