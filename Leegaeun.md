@@ -1,7 +1,7 @@
 ![자기소개](https://cdn3.iconfinder.com/data/icons/rcons-user-profession/32/lawyer-woman-48.png)
 
-INTRODUCE
-=========
+INTRODUCE{: .text-center}
+=========================
 
 1. 이름: 이가은
 
